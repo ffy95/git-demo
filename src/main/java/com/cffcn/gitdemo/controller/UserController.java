@@ -4,9 +4,8 @@ import org.springframework.stereotype.Controller;
 
 @Controller
 public class UserController {
-
     public void print() {
-        System.out.println("2222");
+        System.out.println("3333");
     }
 
 }
